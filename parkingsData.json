@@ -171,13 +171,10 @@
             253
         ],
         "Distrito de Arganzuela": [
-            0,
+            1,
             3,
-            5,
             19,
-            58,
             82,
-            101,
             127,
             142,
             183,
@@ -312,77 +309,12 @@
             249
         ],
         "AAA": [
-            0,
-            2,
-            5,
+            1,
+            3,
+            6,
             7
         ]
     },
-    "users": {
-        "102590783040593125503": {
-            "id": "102590783040593125503",
-            "url": "https://lh3.googleusercontent.com/-W1ocEHq7PHk/AAAAAAAAAAI/AAAAAAAAAWg/2utuypNtHGM/photo.jpg?sz=80",
-            "name": "Juanjo Marín",
-            "profile": "https://plus.google.com/102590783040593125503"
-        },
-        "108086881826934773478": {
-            "id": "108086881826934773478",
-            "url": "https://lh4.googleusercontent.com/-l2n99Mr5rC4/AAAAAAAAAAI/AAAAAAAA1D8/TFdsOc0BOm8/photo.jpg?sz=80",
-            "name": "Alex Mackenzie-Torres",
-            "profile": "https://plus.google.com/+AlexTorresSF"
-        },
-        "112983617936169928992": {
-            "id": "112983617936169928992",
-            "url": "https://lh5.googleusercontent.com/-WwnyFfhMXy8/AAAAAAAAAAI/AAAAAAABRi4/6fGmIDp5zrA/photo.jpg?sz=80",
-            "name": "Jose Gomez",
-            "profile": "https://plus.google.com/+JoseGomezPlus"
-        },
-        "110804953626559077511": {
-            "id": "110804953626559077511",
-            "url": "https://lh4.googleusercontent.com/-O1agHpZpFCA/AAAAAAAAAAI/AAAAAAAA-qE/G0Mk0PGDK80/photo.jpg?sz=80",
-            "name": "Jason Mayes",
-            "profile": "https://plus.google.com/+JasonMayes"
-        },
-        "108853143961240003549": {
-            "id": "108853143961240003549",
-            "url": "https://lh6.googleusercontent.com/-J0-BG7RQzys/AAAAAAAAAAI/AAAAAAAAAxY/UAhkMoLzAMQ/photo.jpg?sz=80",
-            "name": "Bertrand VEREZ",
-            "profile": "https://plus.google.com/+BertrandVEREZ"
-        },
-        "117826637077711958172": {
-            "id": "117826637077711958172",
-            "url": "https://lh5.googleusercontent.com/-Kihr2CDPvqQ/AAAAAAAAAAI/AAAAAAACEqE/HoKARiyIZLc/photo.jpg?sz=80",
-            "name": "Shawn McClure",
-            "profile": "https://plus.google.com/+ShawnMcClure"
-        },
-        "117973833118225220737": {
-            "id": "117973833118225220737",
-            "url": "https://lh4.googleusercontent.com/-4g35pFLrBlw/AAAAAAAAAAI/AAAAAAAAsOo/ZcDPxEubFfo/photo.jpg?sz=80",
-            "name": "Dennis Heal",
-            "profile": "https://plus.google.com/+DennisHealPHOTOS"
-        },
-        "115785601687445616629": {
-            "id": "115785601687445616629",
-            "url": "https://lh4.googleusercontent.com/-nU3JJZTtz24/AAAAAAAAAAI/AAAAAAAAiIg/DzTH2K21lQg/photo.jpg?sz=80",
-            "name": "Ward Plunet",
-            "profile": "https://plus.google.com/+WardPlunet"
-        },
-        "102354824581711724695": {
-            "id": "102354824581711724695",
-            "url": "https://lh3.googleusercontent.com/-zX6FIQiqkCA/AAAAAAAAAAI/AAAAAAAAEvc/F-DJXNr9CFU/photo.jpg?sz=80",
-            "name": "Yvonne Melton",
-            "profile": "https://plus.google.com/102354824581711724695"
-        },
-        "103846222472267112072": {
-            "id": "103846222472267112072",
-            "url": "https://lh6.googleusercontent.com/-aL8cxjDmTMs/AAAAAAAAAAI/AAAAAAAA0E0/ljN-e69J2Ts/photo.jpg?sz=80",
-            "name": "Christina Collada",
-            "profile": "https://plus.google.com/+ChristinaCollada"
-        }
-    },
-    "parkingUsers": {
-        "Alameda": [
-            "108086881826934773478"
-        ]
-    }
+    "users": {},
+    "parkingUsers": {}
 }
